@@ -1,2 +1,2 @@
 # proyecto1
-sofware de control y administracion de materiales para parcticast egnologicas
+sofware de control y administracion de materiales para practicas tegnologicas
